@@ -1,7 +1,7 @@
-```markdown
+```
 # 👁️‍🗨️ akshay0497-face-tracker
 
-**akshay0497-face-tracker** is a modern web-based face tracking and employee attendance system. It allows users to capture photos using their webcam to register and track attendance for employees. Built with a fast and efficient tech stack — **React**, **TypeScript**, **Vite**, and **Tailwind CSS** — the app is designed to be performant, intuitive, and extendable.
+akshay0497-face-tracker is a modern web-based face tracking and employee attendance system. It allows users to capture photos using their webcam to register and track attendance for employees. Built with a fast and efficient tech stack — React, TypeScript, Vite, and Tailwind CSS — the app is designed to be performant, intuitive, and extendable.
 
 ## 📌 Table of Contents
 
@@ -78,7 +78,7 @@ npm run preview   # Preview production build
 
 ## 🌱 Planned Features
 
-* Face recognition (TensorFlow\.js or MediaPipe)
+* Face recognition
 * Export attendance to CSV/PDF
 * Cloud backup support
 * Role-based authentication
@@ -92,9 +92,6 @@ npm run preview   # Preview production build
 4. Push to branch: `git push origin feature/feature-name`
 5. Open a pull request
 
-## 📝 License
-
-This project is licensed under the MIT License.
 
 ## 👤 Author
 
